@@ -13,11 +13,17 @@
   <img width="12" />
 </div>
 
-## 🐈ONG Pacotinho de Amor🐕
+## 🐈NGO 'Pacotinho de Amor'🐕
 https://github.com/Rafaela-Heer/Projeto-ong-pacotinho-de-amor.git
 
-## ♻️BioVolt- Gerador de energia a partir de biomassa⚡
+## ♻️BioVolt- Energy generator using biomass⚡
 https://github.com/Rafaela-Heer/Global-Solution---BioVolt.git
+
+## 🍷Design- E-commerce for a winery🍷
+https://www.figma.com/design/rm5VzSGFw7BsibkmvEWCHS/E-commerce-Agnelo?node-id=0-1&t=DMToWebgCupwm1Xd-1
+
+## 📱Design- Mobile Application for job vacancies 💼
+https://www.figma.com/design/5fIrF2LxdoAstTO8zqRDP8/Untitled?node-id=0-1&t=n2XP840sixZrjrJu-1
 
 
 
